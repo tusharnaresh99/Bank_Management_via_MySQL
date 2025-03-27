@@ -38,3 +38,10 @@ CREATE TABLE current_account (
     balance INT,
     password VARCHAR(255)
 );
+
+
+git clone https://github.com/yourusername/Bank-Management-System.git
+
+cd Bank-Management-System
+
+python bank_management.py
